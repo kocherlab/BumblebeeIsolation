@@ -2,5 +2,4 @@
 
 [Download Segmentation File](https://www.dropbox.com/sh/52bcg5866ri2jwp/AADcCKG5M_PalRNd4q5nwLEJa?dl=0)
 
-Wang & McKenzie-Smith *et al.* Isolation disrupts social interactions and destabilizes brain development in bumblebees. *In submission*
- 
+This file (.vtk) contains the manual annotations of the worker bumblebee brain atlas. It can be loaded into ITK-Snap and read out as segmentations of different neuropil regions 
